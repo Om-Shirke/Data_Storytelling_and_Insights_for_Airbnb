@@ -51,3 +51,7 @@ This project analyzes Airbnb listings in New York to uncover key factors influen
 | `Dataset Description.png` | Image describing each variable in the dataset |
 | `README.md`               | Project documentation |
 
+## 📢 Credits & References
+
+- **Project by:** Om Shirke
+
